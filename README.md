@@ -4,3 +4,5 @@ Yummy paperwork to make role-play more interesting. The more people need to inte
 ## Other Forms
 Shout out to these people who also make forms for this game. There's a chance I have used some of their forms for inspiration on how to start form making. So check them out, and maybe even use them! I am in the option, the more forms out there to pick from, the better it is for everyone.
 - [Northern-Wings](https://github.com/northern-wings/Norths-Funky-Forms) :: Just great forms all around, a lot to pick from!
+- [Moomoobeef](https://github.com/Moomoobeef/ss14-forms-txt) :: A lot of different types of forms to pick from, some very official, and some very silly!
+- [TheTyto](https://github.com/TheTyto/SS14-Advanced-Paperwork/) :: Great detailed forms that look very official. These were built off of Moomoobeef's forms. 
