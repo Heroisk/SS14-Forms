@@ -1,0 +1,18 @@
+# NT-CARGO-D101 Nitrogen Order Form
+
+[color=#b18644]█▄ █ ▀█▀    [head=2]NITROGEN ORDER FORM[/head]
+█ ▀█     █     Thank you for choosing Cargo[/color]
+─────────────────────────────────────────
+This document is to serve as a quick way to obtain an item necessary for a species to function on the station. It should only be used for such, and not misused. [bold][color=DarkRed]Any misuse will be reported.[/color][/bold] It is to be filled out by the cargo member accepting the order, and delivered as soon as possible.
+
+─────────────────────────────────────────
+[head=3][bold]SECTION 1: ORDER DETAILS[/bold][/head]
+[bold]ITEM:[/bold] Nitrogen Tank
+[bold]REASON:[/bold] Some members are not able to breathe the normal air the station has, and requires a Nitrogen tank to breathe. Some stations lack the canister to breathe, or have ran out.
+[bold]TIME REQUESTED:[/bold]
+[bold]DELIVERY LOCATION:[/bold] 
+[bold]APPROVAL'S NAME:[/bold]
+
+
+
+                            [bold]SIGNATURE REQUIRED BELOW[/bold]
