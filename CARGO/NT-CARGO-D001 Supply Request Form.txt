@@ -1,4 +1,4 @@
-[italic]# NT-CARGO-D001 Supply Request Form[/italic]
+# NT-CARGO-D001 Supply Request Form
 
 [color=#b18644]█▄ █ ▀█▀    [head=2]SUPPLY REQUEST FORM[/head]
 █ ▀█     █     Thank you for choosing Cargo[/color]
