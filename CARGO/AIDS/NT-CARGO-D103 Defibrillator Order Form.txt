@@ -1,0 +1,18 @@
+# NT-CARGO-D103 Defibrillator Order Form
+
+[color=#b18644]█▄ █ ▀█▀    [head=2]DEFIBRILLATOR ORDER FORM[/head]
+█ ▀█     █     Thank you for choosing Cargo[/color]
+─────────────────────────────────────────
+This document is to serve as a quick way to obtain an item necessary for a species to function on the station. It should only be used for such, and not misused. [bold][color=DarkRed]Any misuse will be reported.[/color][/bold] It is to be filled out by the cargo member accepting the order, and delivered as soon as possible.
+
+─────────────────────────────────────────
+[head=3][bold]SECTION 1: ORDER DETAILS[/bold][/head]
+[bold]ITEM:[/bold] Compact Defibrillator 
+[bold]REASON:[/bold] Any medical member that can only use one hand needs an access to a compact defibrillator to do their job.
+[bold]TIME REQUESTED:[/bold]
+[bold]DELIVERY LOCATION:[/bold] 
+[bold]APPROVAL'S NAME:[/bold]
+
+
+
+               [bold]APPROVAL'S SIGNATURE REQUIRED BELOW[/bold]
