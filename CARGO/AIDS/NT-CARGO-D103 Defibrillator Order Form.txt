@@ -8,7 +8,7 @@ This document is to serve as a quick way to obtain an item necessary for a speci
 ─────────────────────────────────────────
 [head=3][bold]SECTION 1: ORDER DETAILS[/bold][/head]
 [bold]ITEM:[/bold] Compact Defibrillator 
-[bold]REASON:[/bold] Any medical member that can only use one hand needs an access to a compact defibrillator to do their job.
+[bold]REASON:[/bold] Any medical member that can only use one hand needs a access to a compact defibrillator to do their job.
 [bold]TIME REQUESTED:[/bold]
 [bold]DELIVERY LOCATION:[/bold] 
 [bold]APPROVAL'S NAME:[/bold]
