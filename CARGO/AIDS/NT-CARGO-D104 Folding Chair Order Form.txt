@@ -8,7 +8,7 @@ This document is to serve as a quick way to obtain an item necessary for a speci
 ─────────────────────────────────────────
 [head=3][bold]SECTION 1: ORDER DETAILS[/bold][/head]
 [bold]ITEM:[/bold] Folding Chair
-[bold]REASON:[/bold] Some members might not be able to reach meccesary consoles without the extra height. Folding chairs help aid members.
+[bold]REASON:[/bold] Some members might not be able to reach necessary consoles without the extra height. Folding chairs help aid members.
 [bold]TIME REQUESTED:[/bold]
 [bold]DELIVERY LOCATION:[/bold] 
 [bold]APPROVAL'S NAME:[/bold]
